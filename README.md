@@ -1,14 +1,16 @@
-- 👋 Hi, I’m @k-purbo (https://www.linkedin.com/in/kpurbo/)
+- 👋 Hi, I’m @k-purbo Kleo Purbollari (https://www.linkedin.com/in/kpurbo/)
 
 - 🏫 Completed: B.S. Computer science (Minors in Math, Physics, Philosophy).
 
-- 👀 I’m interested in projects involving database management, SQL, Ruby on Rails etc. 
+- 👀 I’m interested in projects involving data analytics, BI tools, and data visualization.
 
-- 🌱 I’m currently learning about advanced Java development, covering topics such as multi-threading and Streams, JDBC, Swing, Networking etc.
+- 🌱 I’m currently enrolled in a Business Intelligence Management class, covering topics such as Competitive Business Analytics Approaches, Advancing Strategy, Execution and Organizational Effectiveness etc.
 
-- 💞️ I’m currently assisting at RentNobee.com with 2 projects - implementing change-log report generation for properties, and a serverless solution to sending email and sms notifications to users.
+- 💞️ I will be graduating with a Master's in Strategic Analytics in May 2025 (1 class left until graduation).
 
-- 📫 How to reach me (email: kp1@brandeis.edu)
+- 📫 How to reach me (email: kpurbollari@gmail.com)
+
+- Please see some of my projects below and contact me with any questions!
 
 <!---
 k-purbo/k-purbo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
