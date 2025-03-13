@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently enrolled in a Business Intelligence Management class, covering topics such as Competitive Business Analytics Approaches, Advancing Strategy, Execution and Organizational Effectiveness etc.
 
-- 💞️ I will be graduating with a Master's in Strategic Analytics in May 2025 (1 class left until graduation).
+- 💞️ I have completed all degree requirements and will be graduating with a Master's in Strategic Analytics in May 2025.
 
 - 📫 How to reach me (email: kpurbollari@gmail.com)
 
