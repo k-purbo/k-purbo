@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @k-purbo Kleo Purbollari (https://www.linkedin.com/in/kpurbo/)
+- 👋 Hi, I’m Kleo Purbollari (https://www.linkedin.com/in/kpurbo/)
 
 - 🏫 Completed: B.S. Computer science (Minors in Math, Physics, Philosophy).
 
@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently enrolled in a Business Intelligence Management class, covering topics such as Competitive Business Analytics Approaches, Advancing Strategy, Execution and Organizational Effectiveness etc.
 
-- 💞️ I have completed all degree requirements and will be graduating with a Master's in Strategic Analytics in May 2025.
+- 💞️ I recently graduated with a Master's in Strategic Analytics (May 2025).
 
 - 📫 How to reach me (email: kpurbollari@gmail.com)
 
